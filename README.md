@@ -7,7 +7,7 @@
 
 # ⭐️ My stats
 
-[![Neo's GitHub stats](https://github-readme-stats.vercel.app/api?username=22GNUs&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Neo's GitHub stats](https://github-readme-stats.vercel.app/api?username=22GNUs)](https://github.com/anuraghazra/github-readme-stats)
 
 # 👨🏻‍💻 Top langs
 
