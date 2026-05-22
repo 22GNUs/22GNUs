@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @22GNUs
+# 👋 Hi, I’m @Neo.W
 
 - 👀 I’m interested in **Functional programing** & **Vim** ...
 - 🌱 I’m currently learning **AI** & **Crypto** ...
@@ -7,7 +7,7 @@
 
 # ⭐️ My stats
 
-[![22GNUs's GitHub stats](https://github-readme-stats.vercel.app/api?username=22GNUs&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Neo's GitHub stats](https://github-readme-stats.vercel.app/api?username=22GNUs&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # 👨🏻‍💻 Top langs
 
